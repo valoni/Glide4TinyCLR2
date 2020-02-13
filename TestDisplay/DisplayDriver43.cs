@@ -168,7 +168,7 @@ namespace TestDisplay
         {
             var conf = FT5xx6Controller.GetConnectionSettings();
             var dev = i2CController.GetDevice(conf);
-            var gpio = gpioController.OpenPin(61);//I don't know which pin to use for interrupt
+            var gpio = gpioController.OpenPin(SC20260.GpioPin.PJ14);//I don't know which pin to use for interrupt
             touch = new FT5xx6Controller(dev,gpio );//UCMStandard.GpioPin.B - ref:https://docs.ghielectronics.com/hardware/ucm/standard.html#pin-assignments
 
             touch.TouchDown += (_, e) => {
