@@ -1,0 +1,8 @@
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\obj\Debug\System.XML.csproj.CoreCompileInputs.cache
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\bin\Debug\System.XML.dll
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\bin\Debug\System.XML.pdb
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\bin\Debug\mscorlib.dll
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\obj\Debug\System.XML.csprojAssemblyReference.cache
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\obj\Debug\System.XML.csproj.CopyComplete
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\obj\Debug\System.XML.dll
+C:\experiment\TinyCLR2\Research\TinyUICLRv2\System.XML\obj\Debug\System.XML.pdb
